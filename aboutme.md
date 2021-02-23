@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hi, I'm Jess Nickelsen. I'm a writer who lives in Wellington, New Zealand.
+Hi, I'm Jess. I'm a writer who lives in Wellington, New Zealand.
 
 ![Moi](/assets/img/jess-nickelsen.jpeg){: .mx-auto.d-block :}
 
