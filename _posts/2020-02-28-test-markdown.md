@@ -3,7 +3,7 @@ layout: post
 title: Sample blog post
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow, visits, updated]
+gh-badge: [star, fork, follow, watch]
 tags: [test]
 comments: true
 ---
