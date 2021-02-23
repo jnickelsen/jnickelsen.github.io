@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
- Blog: "https://discombobulated.co.nz"
+  Blog: "https://discombobulated.co.nz"
 
 # --- Logo --- #
 
@@ -40,11 +40,11 @@ title-img: "assets/img/jess-nickelsen.jpeg"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jessica.nickelsen@gmail.com"
-  #facebook: deanattali
-  #github: daattali
-  #twitter: daattali
-  #patreon: DeanAttali
-  #youtube: c/daattali
+  # facebook: deanattali
+  # github: daattali
+  # twitter: daattali
+  # patreon: DeanAttali
+  # youtube: c/daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -74,6 +74,7 @@ share-links-active:
   facebook: false
   linkedin: false
   vk: false
+  instagram: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
