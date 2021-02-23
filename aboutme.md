@@ -11,7 +11,7 @@ Some things about me:
 
 - I love cats
 - my favourite cheese is feta
-- my name is Jessica but the rest of the world calls me Jess
+- I swing wildly between 'Jess' and 'Jessica.' Do try to keep up!
 
 
 
