@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Jess
+title: About
 ---
 
 Hi, I'm Jess Nickelsen. I'm a writer who lives in Wellington, New Zealand.
