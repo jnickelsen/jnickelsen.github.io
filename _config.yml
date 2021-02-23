@@ -14,10 +14,8 @@ author: Jess Nickelsen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  About: "aboutme"
+  Newsletter: "https://buttondown.email/jessnickelsen"
   Blog: "https://discombobulated.co.nz"
 
 # --- Logo --- #
