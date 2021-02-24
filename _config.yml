@@ -14,7 +14,9 @@ author: Jessica Nickelsen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "aboutme"
+  About Jess: "aboutme"
+  Writing: "writing"
+   - Stories: "stories"
   Newsletter: "https://buttondown.email/jessnickelsen"
   Blog: "https://discombobulated.co.nz"
 
