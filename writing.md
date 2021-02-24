@@ -1,4 +1,3 @@
-# Stories
 
 **“The Obstinate One”** - a gothic short story, about a ghost who won’t accept no for an answer. It’s included in the [Lost Souls](http://blog.flametreepublishing.com/fantasy-gothic/successful-submissions-lost-souls-robots-artificial-intelligence) anthology by [Flame Tree Publishing](https://www.flametreepublishing.com/Lost-Souls-Short-Stories.html). (Amazon link)
 
