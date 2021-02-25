@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello To The New Site
+title: New Site
 cover-img: /assets/img/2017-06-23-kaikoura.jpeg
 thumbnail-img: /assets/img/2017-06-23-kaikoura.jpeg
 share-img: /assets/img/2017-06-23-kaikoura.jpeg
