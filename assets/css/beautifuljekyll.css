@@ -5,7 +5,7 @@ layout: null
 @import url("pygment_highlights.css");
 @font-face {
   font-family: "Montserrat";
-  src: url("/fonts/Montserrat/Montserrat-Regular.ttf");
+  src: url("/assets/fonts/Montserrat/Montserrat-Regular.ttf");
 }
 
 /* --- General --- */
