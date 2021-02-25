@@ -17,4 +17,4 @@ Coming soon: **The Dark Offering and other stories**
 
 # News
 
-To keep up to date with upcoming titles, subscribe to Jess's newsletter, below.
+To keep up to date with upcoming titles, subscribe to my newsletter:
