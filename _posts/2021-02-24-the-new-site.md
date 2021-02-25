@@ -11,4 +11,4 @@ Hello! This is an old photo from four years ago, when we caught the ferry to the
 
 This is a bit how I feel at the moment; the world feels very big right now, and the horizon is stretching out before me. Taking the step to dip my toe into publishing waters is a big deal, and I'm nervous and excited. 
 
-Over the coming weeks and months I'll be updating this site with writing progress and news, but the "regular, everyday" blogging will still continue at [discombobulated.co.nz](https://discombobulated.co.nz). Or if you'd like me to come to you, I'm sending a once-or-twice a month newsletter, which you can sign up for [here](https://buttondown.email/jessnickelsen).
+Over the coming weeks and months I'll be updating this site with writing progress and news, but the "regular, everyday" blogging will still continue at [discombobulated.co.nz](https://discombobulated.co.nz). Or if you'd like me to come to you, I'm sending a once-or-twice a month newsletter, which you can sign up for [here](https://buttondown.email/jessicanickelsen).
