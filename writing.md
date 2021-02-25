@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Writing
+after-content: buttondown-form.html
 ---
 
 # Stories
