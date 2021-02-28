@@ -18,5 +18,5 @@ Coming soon: **The Dark Offering and other stories**
 
 ## News
 
-To keep up to date with upcoming titles, subscribe to my newsletter:
+To keep up to date with upcoming titles, you can subscribe to my newsletter. Otherwise I [blog](https://discombobulated.co.nz) relatively frequently, or you can follow my Amazon author page [here](https://www.amazon.com/~/e/B08XN2P5RD).
 
