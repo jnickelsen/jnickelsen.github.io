@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing
+title: Books & Stories
 after-content: buttondown-form.html
 ---
 
