@@ -14,7 +14,7 @@ Some things about me:
  - but I've also driven movie stars to sets, performed silver service at luxury lodges, and been a tour guide operator at a prawn farm!
  - I'm a Mac, Windows & Linux girl
  - My favourite Studio Ghibli movie is "Whisper of the Heart"
- - I like to write in silence, but otherwise I'm usually listening to something like [this playlist](https://open.spotify.com/playlist/3qrbsxrxwnWEF5qIGyC5XL?si=CWgK6FrEQ_GEKMXoluVnsQ).
+ - I like to write in silence, but otherwise I'm usually listening to something like [this playlist](https://open.spotify.com/playlist/3qrbsxrxwnWEF5qIGyC5XL?si=CWgK6FrEQ_GEKMXoluVnsQ). (Though please ignore the rest of my playlists; they've been polluted by an 8-year-old!)
 
 
 
