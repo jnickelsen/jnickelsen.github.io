@@ -13,7 +13,7 @@ after-content: buttondown-form.html
 
 
 
-Coming soon: **The Dark Offering and other stories**
+Available via preorder: **[The Dark Offering and other stories](https://www.amazon.com/gp/product/B08XS23JDP/ref=dbs_a_def_rwt_bibl_vppi_i1)**
 
 # News
 
