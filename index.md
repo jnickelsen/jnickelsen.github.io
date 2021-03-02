@@ -16,6 +16,9 @@ after-content: buttondown-form.html
 
 Available via preorder: **[The Dark Offering and other stories](https://www.amazon.com/gp/product/B08XS23JDP/ref=dbs_a_def_rwt_bibl_vppi_i1)**
 
+![Dark Offering cover](/assets/img/Dark Offering-480x768.jpg){: .mx-auto.d-block :}
+
+
 ## News
 
 To keep up to date with upcoming titles, you can subscribe to my newsletter. Otherwise I [blog](https://discombobulated.co.nz) relatively frequently, or you can follow my Amazon author page [here](https://www.amazon.com/~/e/B08XN2P5RD).
