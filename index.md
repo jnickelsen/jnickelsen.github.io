@@ -12,6 +12,9 @@ Available via preorder: **[The Dark Offering and other stories](https://www.amaz
 
 ![Dark Offering cover](/assets/img/Dark Offering-480x768.jpg){: .mx-auto.d-block :}
 
+> What drives perfectly nice people to do desperate things?
+
+> A father throws his son a birthday pool party, despite his suspicion that something lurks beneath the surface. A kleptomaniac outcast with a habit of snooping alienates her schoolmates when she uncovers a mystery. A ghost won’t accept no for an answer when she falls in love with a living man. A man’s dream of a terrifying encounter with swans turns into a wet nightmare doppelganger scenario. A teenager home from university struggles with many kinds of loss after her grandfather’s death.
 
 ## Stories
 
