@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dark Offering
-cover-img: /assets/img/2021-03-05-dark-offering-preorder.jpeg
+cover-img: 
 thumbnail-img: /assets/img/2021-03-05-dark-offering-preorder.jpeg
 share-img: /assets/img/2021-03-05-dark-offering-preorder.jpeg
 tags: [books]
