@@ -8,7 +8,7 @@ after-content: buttondown-form.html
 
 ## Books
 
-Available via preorder: **[The Dark Offering and other stories](https://www.amazon.com/gp/product/B08XS23JDP/ref=dbs_a_def_rwt_bibl_vppi_i1)**
+Available on Amazon: **[The Dark Offering and other stories](https://www.amazon.com/gp/product/B08XS23JDP/ref=dbs_a_def_rwt_bibl_vppi_i1)**
 
 ![Dark Offering cover](/assets/img/Dark Offering-480x768.jpg){: .mx-auto.d-block :}
 
