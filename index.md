@@ -2,7 +2,7 @@
 layout: page
 title: Hi.
 subtitle: I'm Jess. Here are some things I've written.
-#after-content: buttondown-form.html
+before-content: buttondown-form.html
 ---
 ## News
 
