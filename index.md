@@ -35,7 +35,11 @@ Available on Amazon: **[The Dark Offering and other stories](https://www.amazon.
 
 > What drives perfectly nice people to do desperate things?
 
-> A father throws his son a birthday pool party, despite his suspicion that something lurks beneath the surface. A kleptomaniac outcast with a habit of snooping alienates her schoolmates when she uncovers a mystery. A ghost won’t accept no for an answer when she falls in love with a living man. A man’s dream of a terrifying encounter with swans turns into a wet nightmare doppelganger scenario. A teenager home from university struggles with many kinds of loss after her grandfather’s death.
+>A father throws his son a birthday pool party, despite his suspicion that something lurks beneath the surface. A snooping kleptomaniac alienates her schoolmates when she uncovers a mystery. A ghost becomes obsessed with the new residents in "her" house. A man's dream of a terrifying encounter with swans turns into a wet nightmare doppelganger scenario. A teenager home from university struggles with many kinds of loss after her grandfather's death.
+
+>The five short stories in THE DARK OFFERING AND OTHER STORIES look at love through a dark lens; there are intense themes within, but also humour, love and hope.
+
+>Please note: several of these stories contain depictions of suicide and self-harm.
 
 ## Stories
 
