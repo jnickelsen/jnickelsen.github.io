@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hi.
-subtitle: I'm Jess. Here are some things I've written.
+title: Unusual fictions
+subtitle: Books and stories by Jessica Nickelsen
 #before-content: buttondown-form.html
 ---
 ## News
