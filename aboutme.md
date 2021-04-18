@@ -14,7 +14,7 @@ Some things about me:
  - I've also driven movie stars to sets (one now famous individual still owes me a Hole cassette, after getting my sister's one stuck in the tape deck of the car), performed silver service at a luxury lodge, been a tour guide operator at a prawn farm!
  - I also reviewed video games for ten years for the now-defunct (yet still dear to my heart) NZGamer.com. 
  - I'm slowly migrating my life to Linux
- - My favourite Studio Ghibli movie is "Whisper of the Heart"
+ - My favourite Studio Ghibli movie is Whisper of the Heart. No, wait--Kiki.
  - I like to write in silence, but otherwise I'm usually listening to something like [this playlist](https://open.spotify.com/playlist/3qrbsxrxwnWEF5qIGyC5XL?si=CWgK6FrEQ_GEKMXoluVnsQ). 
 
 
