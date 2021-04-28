@@ -17,7 +17,7 @@ I never really advertised much in the past.
 
 In any case, enjoy!
 
-![Jessica Nickelsen interview at the Eastbourne Herald ](/assets/img/2021-03-05-dark-offering-preorder.jpeg){: .mx-auto.d-block :}
+![Jessica Nickelsen interview at the Eastbourne Herald ](/assets/img/2021-04-28-eastbourne-herald.jpeg){: .mx-auto.d-block :}
 
 [Issu link](https://issuu.com/theeastbourneherald/docs/print_20_page_april_2021__)
 
