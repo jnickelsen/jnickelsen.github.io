@@ -8,22 +8,7 @@ subtitle: Books and stories by Jessica Nickelsen
 
 To keep up to date with upcoming titles, you can subscribe to my newsletter.
 
-<center>
-  <form
-  action="https://buttondown.email/api/emails/embed-subscribe/jessicanickelsen"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/jessicanickelsen', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
-  <label for="bd-email"></label>
-  <input type="email" name="email" id="bd-email" />
-  <input type="hidden" value="1" name="embed" />
-  <input type="submit" value="Subscribe" />
-  <p>
-  </p>
-</form>
-</center>
+<script async data-uid="c83d743044" src="https://awesome-trader-1211.ck.page/c83d743044/index.js"></script>
 
 Otherwise I [blog](https://discombobulated.co.nz) relatively frequently, or you can follow my Amazon author page [here](https://www.amazon.com/~/e/B08XN2P5RD).
 
