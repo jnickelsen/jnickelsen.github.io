@@ -2,7 +2,7 @@
 layout: page
 title: Unusual fictions
 subtitle: Books and stories by Jessica Nickelsen
-#before-content: buttondown-form.html
+
 ---
 ## News
 
