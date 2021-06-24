@@ -8,7 +8,7 @@ subtitle: Books and stories by Jessica Nickelsen
 
 To keep up to date with upcoming titles, you can subscribe to my newsletter.
 
-<script async data-uid="c83d743044" src="https://jessicanickelsen.ck.page/e2bd280c8c/c83d743044/index.js"></script>
+<script async data-uid="c83d743044" src="https://jessicanickelsen.ck.page/c83d743044/index.js"></script>
 
 Otherwise I [blog](https://discombobulated.co.nz) relatively frequently, or you can follow my Amazon author page [here](https://www.amazon.com/~/e/B08XN2P5RD).
 
