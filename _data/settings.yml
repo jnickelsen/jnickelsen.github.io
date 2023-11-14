@@ -18,12 +18,10 @@ menu__settings:
           title: "Catnip + Brimstone"
     - title: "Blog"
       url: "/blog/"
-    - title: "Pages"
-      submenu:
-        - url: "/about/"
-          title: "About"
-        - url: "/contact/"
-          title: "Contact"
+    - title: "About"
+      url: "/about/"
+    - title: "Contact"
+      url: "/contact/"
 
 #-------------------------------
 # Author Settings
