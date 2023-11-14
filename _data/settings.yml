@@ -12,12 +12,14 @@ menu__settings:
   menu__items:
     - title: "Home"
       url: "/"
-    - title: "Novels + Stories"
+    - title: "Fiction"
       submenu:
         - url: "/project/catnip-and-brimstone"
           title: "Catnip + Brimstone"
         - url: "/project/the-dark-offering"
           title: "The Dark Offering"
+        - url: "/projects/"
+          title: "All"
     - title: "Blog"
       url: "/blog/"
     - title: "About"
