@@ -13,7 +13,6 @@ menu__settings:
     - title: "Home"
       url: "/"
     - title: "Fiction"
-      url: "/projects/"
       submenu:
         - url: "/project/catnip-and-brimstone/"
         - title: "Catnip + Brimstone"
