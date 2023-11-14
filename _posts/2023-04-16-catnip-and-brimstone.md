@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Catnip & Brimstone
-cover-img: /assets/img/Catnip and Brimstone 480x768.png
-thumbnail-img: /assets/img/Catnip and Brimstone 480x768.png
-share-img:
+image: '/Images/Catnip and Brimstone 480x768.png'
 tags: [books]
 ---
 
