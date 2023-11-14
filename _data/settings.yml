@@ -14,8 +14,8 @@ menu__settings:
       url: "/"
     - title: "Fiction"
       submenu:
-        - url: "/project/catnip-and-brimstone/"
-        - title: "Catnip + Brimstone"
+        - url: "/project/catnip-and-brimstone"
+          title: "Catnip + Brimstone"
     - title: "Blog"
       url: "/blog/"
     - title: "Pages"
