@@ -130,8 +130,10 @@ layout: default
 </div>
 
 <!-- back to pregen stuff -->
-{% include related-posts.html %} {% if page.previous.url %}
-{{page.previous.title}} -
+
+<!-- {% include related-posts.html %} -->
+
+{% if page.previous.url %} {{page.previous.title}} -
 <a href="{{page.previous.url}}">
     {% endif %} {% if site.data.settings.disqus-identifier %}
     <div class="container">
