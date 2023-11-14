@@ -12,8 +12,8 @@ menu__settings:
   menu__items:
     - title: "Home"
       url: "/"
-    - title: "Projects"
-      url: "/projects/"
+    - title: "Fiction"
+      url: "/fiction/"
     - title: "Blog"
       url: "/blog/"
     - title: "Pages"

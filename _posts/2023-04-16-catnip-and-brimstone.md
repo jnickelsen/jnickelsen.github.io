@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Catnip & Brimstone
-image:
 tags: [books]
 ---
 
-![Catnip & Brimstone cover]({{site.baseurl}}/images/books/catnip-and-brimstone-plain-mockup.png){: width="400px" .centered}
+![Catnip & Brimstone cover]({{site.baseurl}}/images/books/catnip-and-brimstone-plain-mockup.png){: width="400px"}{:.centered}
 
 After sitting on it for longer than I'd like to admit, I'm happy to announce that my novella, _Catnip & Brimstone_ is now available in the kindle store. I'm releasing it as a KDP Select title for now, but will make it available on other shopfronts in the future.
 
