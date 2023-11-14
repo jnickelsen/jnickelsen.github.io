@@ -9,7 +9,7 @@ image: '/images/books/the-dark-offering-plain-mockup.png'
 
 Other ways to buy: **[ePub version via Ko-Fi](https://ko-fi.com/s/b51bcaacd8)**, or you can purchase it from many other [online bookstores](https://books2read.com/u/bryrxe).
 
-![Dark Offering cover]({{site.baseurl}}/images/books/the-dark-offering-plain-mockup.png)
+![Dark Offering cover]({{site.baseurl}}/images/books/the-dark-offering-plain-mockup.png){: width="250" }
 
 > What drives perfectly nice people to do desperate things?
 
