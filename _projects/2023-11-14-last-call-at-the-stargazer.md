@@ -7,8 +7,10 @@ image: '/images/books/last-call-mockup.png'
 
 ![Last Call at the Stargazer cover]({{site.baseurl}}/images/books/last-call-mockup.png){:.centered}
 
-Currently available as a download for all of my newsletter subscribers. (Sign up [here](https://jessicanickelsen.ck.page/)!)
+I'm currently offering this short story as a download for all of my newsletter subscribers. (Sign up [here](https://jessicanickelsen.ck.page/), and enjoy!)
 
-Fortune and Folly collide in The Stargazer—where luck is a double-edged coin, and a chance encounter spins a tale of chaos, humor, and the unpredictable dance of destiny
+The hook:
 
-In the dimly lit confines of The Stargazer, fate takes center stage as a seemingly lucky bus driver named Joe crosses paths with a troubled man, Stan. As tensions escalate, a series of bizarre events unfold, involving spilled drinks, misplaced luck, and an accidental gunshot that punctuates the night. Brace yourself for a rollercoaster of chaos, humor, and unexpected twists in this gripping tale that explores the thin line between luck and misfortune.
+In the dimly lit confines of The Stargazer, fate takes center stage as a seemingly lucky bus driver named Joe crosses paths with a troubled man, Stan. As tensions escalate, a series of strange events unfold, involving spilled drinks, misplaced luck, and an accidental gunshot that punctuates the night.
+
+Dive into this unpredictable tale of chaos, humor, and unexpected twists in this story that explores the thin line between luck and misfortune.
