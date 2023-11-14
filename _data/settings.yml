@@ -30,7 +30,7 @@ menu__settings:
 author:
   author__name: Jessica Nickelsen
   author__bio: Hey, I'm Jess. I write books and stories about the unreal, the surreal, the weird and whimsical.
-  author__avatar: "/images/author-avatar.jpg"
+  author__avatar: "/images/jess-nickelsen.jpeg"
 
 social:
   # - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -47,7 +47,7 @@ social:
 hero:
   hero__title: I'm Jess.
   hero__description: I write books and stories about the unreal, the surreal, the weird and whimsical.
-  hero__image: "/images/jess-nickelsen.jpeg"
+  hero__image: "/images/mickey.jpg"
 
 #-------------------------------
 # Newsletter
