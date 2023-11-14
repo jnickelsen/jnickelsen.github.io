@@ -3,17 +3,17 @@ layout: default
 ---
 
 <div class="container">
-  <div class="row">
+    <div class="row">
+        <div class="col col-12">
+            <div class="page-head">
+                <h1 class="page-title">{{ page.title | escape }}</h1>
+                {% if page.description %}
+                <p class="page-description">{{ page.description }}</p>
+                {% endif %}
+            </div>
+        </div>
 
-    <div class="col col-12">
-      <div class="page-head">
-        <h1 class="page-title">{{ page.title | escape }}</h1>
-        {% if page.description %}
-          <p class="page-description">{{ page.description }}</p>
-        {% endif %}
-      </div>
-    </div>
-
+        <!-- again we are removing the freaking giant image
     {%if page.image %}
     <div class="col col-12">
       <div class="page-image animate">
@@ -21,16 +21,14 @@ layout: default
       </div>
     </div>
     {% endif %}
-
-  </div>
+ -->
+    </div>
 </div>
 
 <!-- begin page -->
-<div class="container animate">
-  <article class="page">
-    <div class="page__content">
-      {{ content }}
-    </div>
-  </article>
+<div class="animate container">
+    <article class="page">
+        <div class="page__content">{{ content }}</div>
+    </article>
 </div>
 <!-- end page -->
