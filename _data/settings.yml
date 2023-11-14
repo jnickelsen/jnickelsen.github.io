@@ -59,8 +59,8 @@ hero:
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Books + Stories
-  projects__description: Fiction books and stories
+  projects__title: Fiction
+  projects__description: Novels and stories, and how you can read them!
 
 #-------------------------------
 # Testimonials Section
