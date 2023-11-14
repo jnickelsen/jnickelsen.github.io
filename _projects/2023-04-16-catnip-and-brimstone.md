@@ -5,7 +5,7 @@ subtitle: Novella
 image: '/images/books/catnip-and-brimstone-plain-mockup.png'
 ---
 
-![Catnip & Brimstone cover]({{site.baseurl}}/images/books/catnip-and-brimstone-plain-mockup.png){:width="75%" text-align="center"}
+![Catnip & Brimstone cover]({{site.baseurl}}/images/books/catnip-and-brimstone-plain-mockup.png){:.centered}
 
 You can find the purchase page [here](https://www.amazon.com/dp/B0C2LQSJ7L), or buy the ePub directly from my **[Ko-Fi shop](https://ko-fi.com/s/2405b239a2)**.
 
