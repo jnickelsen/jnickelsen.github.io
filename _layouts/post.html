@@ -97,7 +97,7 @@ layout: default
         </div>
     </article>
     <!-- adding a prev and next -->
-
+    <!-- see related css in sass > layouts > _post.scss -->
     <div class="post-nav">
         <div>
             {% if page.previous.url %}
@@ -126,13 +126,14 @@ layout: default
         </div>
     </div>
 </div>
+
 <!-- end post -->
 
 <!-- back to pregen stuff -->
 
 <!-- {% include related-posts.html %} -->
 
-{% if page.previous.url %} {{page.previous.title}} -
+{% if page.previous.url %}
 <a href="{{page.previous.url}}">
     {% endif %} {% if site.data.settings.disqus-identifier %}
     <div class="container">
