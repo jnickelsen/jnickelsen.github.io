@@ -2,10 +2,10 @@
 title: Catnip + Brimstone
 date: 2023-04-16
 subtitle: Novella
-thumbnail-img: '/images/books/catnip-and-brimstone-plain-mockup.png'
+image: '/images/books/catnip-and-brimstone-plain-mockup.png'
 ---
 
-![Catnip & Brimstone cover](/images/books/catnip-and-brimstone-plain-mockup.png){: .mx-auto.d-block :}
+![Catnip & Brimstone cover]({{site.baseurl}}/images/books/catnip-and-brimstone-plain-mockup.png)
 
 You can find the purchase page [here](https://www.amazon.com/dp/B0C2LQSJ7L), or buy the ePub directly from my **[Ko-Fi shop](https://ko-fi.com/s/2405b239a2)**.
 
