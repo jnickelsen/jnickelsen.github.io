@@ -2,7 +2,7 @@
 title: The Dark Offering
 date: 2023-04-16
 subtitle: Short stories
-image: '/images/books/the-dark-offering-plain-mockup.png'
+
 ---
 
 **[The Dark Offering and other stories](https://www.amazon.com/gp/product/B08XS23JDP/ref=dbs_a_def_rwt_bibl_vppi_i1)** (Amazon link)
