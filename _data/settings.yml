@@ -55,6 +55,7 @@ hero:
 #mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
 #mailchimp__input__text: Your email address...
 #mailchimp__button__text: Get updates
+
 <script async data-uid="c83d743044" src="https://jessicanickelsen.ck.page/c83d743044/index.js"></script>
 
 #-------------------------------
@@ -107,16 +108,16 @@ blog__settings:
 
 #-------------------------------
 # Gallery Footer Settings
-gallery:
-  gallery__images:
-    - alt: "Rest"
-      url: "/images/gallery-1.jpg"
-    - alt: "Lifestyle"
-      url: "/images/gallery-2.jpg"
-    - alt: "Hobby"
-      url: "/images/gallery-3.jpg"
-    - alt: "Notes"
-      url: "/images/gallery-4.jpg"
+# gallery:
+#   gallery__images:
+#    - alt: "Rest"
+#      url: "/images/gallery-1.jpg"
+#    - alt: "Lifestyle"
+#      url: "/images/gallery-2.jpg"
+#    - alt: "Hobby"
+#      url: "/images/gallery-3.jpg"
+#    - alt: "Notes"
+#      url: "/images/gallery-4.jpg"
 
 #-------------------------------
 # Footer Navigation Settings
