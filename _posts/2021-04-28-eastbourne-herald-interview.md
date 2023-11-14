@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Eastbourne Herald Interview 
-cover-img: 
+title: Eastbourne Herald Interview
+cover-img:
 thumbnail-img: /assets/img/2021-04-28-eastbourne-herald.jpeg
 share-img: /assets/img/2021-04-28-eastbourne-herald.jpeg
 tags: [books]
@@ -17,12 +17,6 @@ I never really advertised much in the past.
 
 In any case, enjoy!
 
-![Jessica Nickelsen interview at the Eastbourne Herald ](/assets/img/2021-04-28-eastbourne-herald.jpeg){: .mx-auto.d-block :}
+![Jessica Nickelsen interview at the Eastbourne Herald ](/images/2021-04-28-eastbourne-herald.jpeg){: .centered}
 
 [Issu link](https://issuu.com/theeastbourneherald/docs/print_20_page_april_2021__)
-
-
-
-
- 
-
