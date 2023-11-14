@@ -31,7 +31,7 @@ collections:
     permalink: /blog/:slug
   projects:
     output: true
-    permalink: /project/:slug
+    permalink: /fiction/:slug
 
 # Pages Path
 defaults:
@@ -51,9 +51,9 @@ defaults:
       layout: "post"
   - scope:
       path: ""
-      type: "projects"
+      type: "fiction"
     values:
-      layout: "project"
+      layout: "fiction"
 
 sass:
   sass_dir: _sass
