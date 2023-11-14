@@ -49,7 +49,7 @@
       color: var(--dark);
       background-color: var(--brand-color);
     }
-  
+
     &:last-child {
       margin-right: 0;
     }
@@ -168,6 +168,14 @@
     border: none;
     text-decoration: none;
   }
+
+  /* Adding for my sanity */
+  img.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
 }
 
 /* Share */
@@ -274,7 +282,7 @@
     font-size: 120px;
     line-height: 1;
   }
-  
+
   @media only screen and (max-width: $mobile) {
     .error__title {
       font-size: 100px;
