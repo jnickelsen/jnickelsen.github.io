@@ -47,9 +47,10 @@ social:
 hero:
   hero__title: Hi, I'm Jess.
   hero__description: I write books and stories about the unreal, the surreal, the weird and whimsical.
-  hero__image: "/images/books/catnip-and-brimstone-plain-mockup.png"
+  hero__image: "/images/books/last-call-mockup.png"
 
 #-------------------------------
+# NOTE! To update my stupid links go to _includes > Section Hero and update the links and blurb there as well
 # Newsletter
 #mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
 #mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
@@ -60,7 +61,7 @@ hero:
 # Projects Settings
 projects__settings:
   projects__title: Fiction
-  projects__description: Novels and stories, and how you can read them!
+  projects__description: Novels and stories, and links to read them!
 
 #-------------------------------
 # Testimonials Section

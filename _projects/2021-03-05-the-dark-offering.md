@@ -1,7 +1,7 @@
 ---
 title: The Dark Offering
 date: 2023-04-16
-subtitle: Short stories
+subtitle: Story Anthology
 image: '/images/books/the-dark-offering-plain-mockup.png'
 ---
 
