@@ -2,7 +2,7 @@
 title: Catnip + Brimstone
 date: 2023-04-16
 subtitle: Novella
-thumbnail-img: '/images/books/catnip-and-brimstone-plain-mockup.png'
+thumbnail: '/images/books/catnip-and-brimstone-plain-mockup.png'
 ---
 
 ![Catnip & Brimstone cover](/images/books/catnip-and-brimstone-plain-mockup.png){: .mx-auto.d-block :}
