@@ -7,7 +7,7 @@ image: '/images/jess-nickelsen.jpeg'
 
 Hi, I'm Jess. I'm a writer who lives in Wellington, New Zealand.
 
-![Moi](/images/jess-nickelsen.jpeg){: .centre :}
+![Moi](/images/jess-nickelsen.jpeg){:.centered}
 
 Some things about me:
 
