@@ -10,4 +10,4 @@ After sitting on it for longer than I'd like to admit, I'm happy to announce tha
 
 What's it about? A girl and her cat bestie, who just might be about to manifest as a "dark" catmage. The adults in their lives are keen to control how things go, but the duo have other plans in mind...
 
-You can find the purchase page [here](https://www.amazon.com/dp/B0C2LQSJ7L), or if you'd like to read it for free, I'm currently offering it as a download for all of my newsletter subscribers. (Sign up [here](https://jessicanickelsen.ck.page/)!)
+Purchase from [Amazon](https://www.amazon.com/dp/B0C2LQSJ7L), or my [ko-fi shopfront]( https://ko-fi.com/s/2405b239a2).
