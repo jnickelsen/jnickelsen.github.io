@@ -13,7 +13,7 @@ menu__settings:
     - title: "Home"
       url: "/"
     - title: "Fiction"
-      url: "/fiction/"
+      url: "/projects/"
     - title: "Blog"
       url: "/blog/"
     - title: "Pages"
