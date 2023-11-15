@@ -7,8 +7,6 @@ image: '/images/jess-nickelsen.jpeg'
 
 Hi, I'm Jess. I'm a writer who lives in Wellington, New Zealand.
 
-![Moi](/images/jess-nickelsen.jpeg){:.centered}
-
 Some things about me:
 
  - I was born in the States, but since then I've lived all over the place: New Zealand, Italy & Ireland, with extended stays in the Netherlands
