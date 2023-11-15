@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A Site Update And New Story For Subscribers
-date: 15 November, 2023
 tags: [blog]
 ---
 
