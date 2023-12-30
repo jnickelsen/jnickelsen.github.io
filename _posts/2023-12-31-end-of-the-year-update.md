@@ -2,7 +2,7 @@
 layout: post
 title: End of the year update
 date: 31 December, 2023
-tags: [blog], [books]
+tags: [blog, books]
 ---
 
 ![Happy New Year!]({{site.baseurl}}/images/2023/2023-12-31.jpg){:.centered}
