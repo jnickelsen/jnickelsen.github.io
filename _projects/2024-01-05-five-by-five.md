@@ -9,6 +9,10 @@ image: '/images/books/incongruous1-plain-mockup.jpg'
 
 Currently available at Amazon [here](https://www.amazon.com/dp/B0CRHV95VJ)!
 
+My writing group, the Incongruous Gongs, have put out our first anthology of stories, all using the same five story elements across different genres and styles. Mine is the ghost story, called "Your Friend, Biggs." Hope you enjoy it!
+
+---
+
 Five elements. Five writers. Five genres. Five stories.
 
 A group of writers put their own spin on five shared story elements: a bird; the feeling of water; a mis-delivered package; the chariot tarot card; a guilty pleasure. The result is a delightful mashup of themes and symbol through different genres and styles:
