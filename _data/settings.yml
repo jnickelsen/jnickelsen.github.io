@@ -14,6 +14,8 @@ menu__settings:
       url: "/"
     - title: "Fiction"
       submenu:
+        - url: "/project/five-by-five"
+          title: "Five By Five"
         - url: "/project/catnip-and-brimstone"
           title: "Catnip + Brimstone"
         - url: "/project/the-dark-offering"
