@@ -9,7 +9,7 @@ image: '/images/books/incongruous1-plain-mockup.jpg'
 
 Currently available at Amazon [here](https://www.amazon.com/dp/B0CRHV95VJ), as an ebook or paperback!
 
-My writing group, the Incongruous Gongs, have put out our first anthology of stories, all using the same five story elements across different genres and styles. Mine is the ghost story, called "Your Friend, Biggs." Hope you enjoy it!
+My writing group, the [Incongruous Gongs](https://incongruousgongs.omg.lol), has put out our first anthology of stories, all using the same five story elements across different genres and styles. Mine is the ghost story, called "Your Friend, Biggs." Hope you enjoy it!
 
 ---
 
