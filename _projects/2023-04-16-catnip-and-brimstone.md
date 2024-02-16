@@ -7,7 +7,7 @@ image: '/images/books/catnip-and-brimstone-plain-mockup.png'
 
 ![Catnip & Brimstone cover]({{site.baseurl}}/images/books/catnip-and-brimstone-plain-mockup.png){:.centered}
 
-Pick up a copy from [Amazon](https://www.amazon.com/dp/B0C2LQSJ7L), or one of [many other online booksellers](https://books2read.com/u/bM2Vo8) or grab the ePub directly from me at my **[Ko-Fi shop](https://ko-fi.com/s/2405b239a2)**.
+Pick up a copy from [Amazon](https://www.amazon.com/dp/B0C2LQSJ7L),  one of [many other online booksellers](https://books2read.com/u/bM2Vo8), or grab the ePub directly from me at my **[Ko-Fi shop](https://ko-fi.com/s/2405b239a2)**.
 
 >The girl might be redeemed. A cat? Never.
 
