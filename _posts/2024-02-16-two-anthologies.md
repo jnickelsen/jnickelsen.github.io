@@ -17,7 +17,7 @@ If you're interested, you can pick up a copy [here](https://www.utopiasciencefic
 
 The other anthology is one my writing group has put together, called _Five By Five_:
 
-![5th Anniversary Anthology!]({{site.baseurl}}/images/2024/2024-02-17-utopia-5year.jpg){:.centered}
+![Five By Five]({{site.baseurl}}/images/books/incongruous1-plain-mockup.jpg){:.centered}
 
 There's more information on the [project page](https://www.jessicanickelsen.com/project/five-by-five) but we had a lot of fun putting this one together, starting from a group writing exercise where we each had to bring together five different elements into one story. It's not surprising that we all wound up with five really different stories, but I really like how the different elements still leaves the sense of a thread running between each one.
 
