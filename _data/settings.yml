@@ -27,7 +27,7 @@ menu__settings:
     - title: "About"
       url: "/about/"
     - title: "Contact"
-      url: "/contact/"
+      url: "mailto:hello@jessicanickelsen.com"
 
 #-------------------------------
 # Author Settings
